@@ -1,0 +1,1 @@
+[{"FQDN": "iol-157-rtr-01", "SerNum": "PEDER123", "Model": "Cisco 1488", "Licenses": ["ipbase", "securityk9", "hseck"], "Ports": 4}, {"FQDN": "iol-157-rtr-02", "SerNum": "PEDER125", "Model": "Cisco 1469", "Licenses": ["ipbase", "securityk9"], "Ports": 5}]
