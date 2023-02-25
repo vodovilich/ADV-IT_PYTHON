@@ -4,6 +4,7 @@ b  = 140
 
 print(a.lower() + "\n" + a.upper() + "\n\t" + a.title() + " " + str(b) + " raz")
 
+
 #title - every word starts with a capital
 print(a.upper())
 
