@@ -13,5 +13,3 @@ print(shit)
 shit = shit.strip()
 print(shit.strip(","))
 shit = shit.strip("-")
-
-
