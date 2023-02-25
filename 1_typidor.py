@@ -8,6 +8,7 @@ print(a.lower() + "\n" + a.upper() + "\n\t" + a.title() + " " + str(b) + " raz")
 #title - every word starts with a capital
 print(a.upper())
 
+
 #[lr]strip - remove space from left/right
 shit = " , delme delme ty pidor delme   - "
 print(shit)
