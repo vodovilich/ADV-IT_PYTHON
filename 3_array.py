@@ -28,6 +28,7 @@ print(routers)
 routers.remove('spb')
 print(routers)
 
+#routers.pop(X) - X is an index, default index is -1
 dead_router = routers.pop()
 print("dead router is:" + dead_router)
 print(dead_router)
